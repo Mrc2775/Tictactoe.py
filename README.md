@@ -1,6 +1,6 @@
 # 🎮 TictacToe Game (Python)
 
-A simple two-player console-based Tic Tac Toe game written in Python. This beginner-friendly project helps you learn Python fundamentals like functions, lists, loops, conditionals, and user input.
+A simple two-player console-based Tic Tac Toe game written in Python. This beginner-friendly project includes Python fundamentals like functions, lists, loops, conditionals, and user input.
 
 ---
 
